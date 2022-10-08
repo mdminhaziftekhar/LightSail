@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649325234416",
+    "project_id": "lightsail-56021",
+    "storage_bucket": "lightsail-56021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649325234416:android:afbe8c93b7aca558111a35",
+        "android_client_info": {
+          "package_name": "com.example.lightsail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649325234416-r76nisr4u896u3uk5j4etlimra8h54dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8_BdkzA67eDhLGeOfm1BWu2ltj3qToc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649325234416-r76nisr4u896u3uk5j4etlimra8h54dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
