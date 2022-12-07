@@ -85,8 +85,8 @@
 
             <ImageView
                 android:id="@+id/homebutton"
-                android:layout_width="45dp"
-                android:layout_height="45dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toStartOf="@+id/mailbutton"
                 app:layout_constraintHorizontal_bias="0.5"
@@ -97,8 +97,8 @@
 
             <ImageView
                 android:id="@+id/mailbutton"
-                android:layout_width="45dp"
-                android:layout_height="45dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toStartOf="@+id/socialsbuttor"
                 app:layout_constraintHorizontal_bias="0.5"
@@ -109,8 +109,8 @@
 
             <ImageView
                 android:id="@+id/socialsbuttor"
-                android:layout_width="45dp"
-                android:layout_height="45dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toStartOf="@+id/logoutbutton"
                 app:layout_constraintHorizontal_bias="0.5"
@@ -121,8 +121,8 @@
 
             <ImageView
                 android:id="@+id/logoutbutton"
-                android:layout_width="45dp"
-                android:layout_height="45dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
